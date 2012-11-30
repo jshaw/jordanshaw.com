@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Jordan Shaw: JSHAW3</title>
+		<title>Jordan Shaw</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="description" content="The Online presence and Portfolio for Jordan Shaw ( JSHAW / JSHAW3 ) - An Interactive Multimedia Designer, Artist, Designer, Music Lover, Fashionista and Trendsetter" />
+		<meta name="description" content="Jordan Shaw ( JSHAW3 / JSHAW ) is a builder of things" />
 		<meta name="keywords" content="Jordan Shaw, Jordan, Shaw, JSHAW, JSHAW3, Canada, Toronto, Graduate, Design, Portfolio, Interactive Multimedia And Design, Resume, Made In Canada, About, Photography, Painting, Illustration, Web Development, Art, CSS(3), HTML(5), PHP, MYSQL, jQuery, Javascript" />
 		<meta name="google-site-verification" content="WeAkcjZW5F-EWeqXR8ysGsRAElKeer11UzDkPeLHcXQ" />
 
