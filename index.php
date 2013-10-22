@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Jordan Shaw</title>
+		<title>Jordan Shaw </title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="description" content="Jordan Shaw ( JSHAW3 / JSHAW ) is a builder of things" />
-		<meta name="keywords" content="Jordan Shaw, Jordan, Shaw, JSHAW, JSHAW3, Canada, Toronto, Graduate, Design, Portfolio, Interactive Multimedia And Design, Resume, Made In Canada, About, Photography, Painting, Illustration, Web Development, Art, CSS(3), HTML(5), PHP, MYSQL, jQuery, Javascript" />
+		<meta name="keywords" content="Jordan Shaw, Jordan, Shaw, JSHAW, JSHAW3, Canada, Toronto, Graduate, Design, Portfolio, Interactive Multimedia And Design, Resume, Made In Canada, About, Photography, Painting, Illustration, Web Development, Trendsetter, Art, CSS(3), HTML(5), PHP, MYSQL, jQuery, Javascript" />
 		<meta name="google-site-verification" content="WeAkcjZW5F-EWeqXR8ysGsRAElKeer11UzDkPeLHcXQ" />
 
 		<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAjY6RwTvr1z3hRISNLINlnBShbmGPgPdwWbebTyQmxeF7bYkC6RRXf_KHqSoJx98PExlpBXr4oOGKTA"></script>
@@ -26,6 +26,7 @@
 				<p>I'm <a class="link" href="http://social.jordanshaw.com" title="Jordan Shaw Is Social">online</a> other places.</p>
 				<p>Some recent personal projects I've built:</p>
 				<ul class="project-list">
+    				<li><a class="link" href="./atyourcity" name="@yourcity" target="_blank">@yourcity</a><br /></li>
 				    <li><a class="link" href="http://isthereagameon.com" name="isthereagameon.com" target="_blank">isthereagameon.com</a><br /></li>
 				    <li><a class="link" href="http://doorsopenmobile.com" name="Doors Open Mobile" target="_blank">doorsopenmobile.com</a><br /></li>
 				    <li><a class="link" href="http://heritage-canada.com" name="Heritage Canada" target="_blank">heritage-canada.com</a><br /></li>
